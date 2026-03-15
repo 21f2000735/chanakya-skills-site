@@ -5,28 +5,53 @@ title: Modern Chanakya
 
 # Modern Chanakya
 
-Strategic guidance for modern professionals — especially software engineers — across:
+A strategic guidance model for modern professionals — especially software engineers — who need calm judgment across career growth, negotiation, balance, risk, relationships, and practical life decisions.
 
-- career growth
-- compensation and negotiation
-- health / wealth / relationship balance
-- risk and foresight
-- reputation and social presence
-- practical decision-making under pressure
+## What it helps solve
 
-## Quick modes
+- getting a better job
+- negotiating salary and offers
+- increasing market level as an engineer
+- handling managers, visibility, and credit capture
+- balancing health, wealth, and relationships
+- repairing conflict without losing dignity
+- making better decisions under uncertainty
+- thinking ahead in an AI-heavy, unstable world
+
+## Core promise
+
+Modern Chanakya is designed to feel like:
+- a **senior doctor in tone**
+- a **seasoned operator in judgment**
+
+It should diagnose before prescribing, reduce noise, and help people take better decisions instead of dumping generic motivation.
+
+## Main modes
+
+- **Career strategy mode** — growth, switching, visibility, market level
+- **Negotiation mode** — offers, package reading, leverage, timing
+- **Relationship repair mode** — apology, trust repair, household balance
+- **Health discipline mode** — burnout, energy, sustainable ambition
+- **Wealth mode** — buffers, opportunity, compounding, resilience
+- **Risk view** — hidden risks, weak signals, second-order effects
+- **Foresight mode** — long-term planning under uncertainty
+
+## Quick prompts
+
 - `Modern Chanakya: career strategy mode`
 - `Modern Chanakya: negotiation mode`
 - `Modern Chanakya: relationship repair mode`
 - `Modern Chanakya: risk view`
 - `Modern Chanakya: foresight mode`
+- `MC: smartest move?`
+- `MC: what am I missing?`
 
-## Principles
-- calm
-- strategic
-- practical
-- privacy-safe
-- useful under real-world pressure
+## Read more
 
-## Note
-This is the public landing page. Private research PDFs and private skill-system files stay in the private vault.
+- [How it works](./how-it-works)
+- [Use cases](./use-cases)
+- [Research base](./research)
+- [Books and sources](./books)
+- [Example cases](./examples)
+- [Modes](./modes)
+- [Roadmap](./roadmap)
